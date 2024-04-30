@@ -1,6 +1,6 @@
 # Plant Disease Prediction using CNN
 
-![Plant Disease](images/plant_disease.jpg)
+![Plant Disease](test_images/test_blueberry_healthy.jpg)
 
 
 ## Kaggle Dataset
