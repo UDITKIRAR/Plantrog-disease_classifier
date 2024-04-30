@@ -1,6 +1,7 @@
 # Plant Disease Prediction using CNN
 
-This repository contains code for building an Image classifier CNN with Python for Plant Disease Prediction.
+![Plant Disease](images/plant_disease.jpg)
+
 
 ## Kaggle Dataset
 You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset).
