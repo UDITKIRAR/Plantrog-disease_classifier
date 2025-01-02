@@ -28,4 +28,4 @@ Copy code
 streamlit run main.py
 This will start the Streamlit server, and you can then access the plant disease prediction application in your web browser.
 
-Build model and integreate it with app mymodel (https://drive.google.com/file/d/1khHRY0CmXpTY3XP3UVMIehztyp18VasM/view?usp=drive_link) current accuracy==91% 
+Build model and integreate it with app mymodel (https://drive.google.com/file/d/1khHRY0CmXpTY3XP3UVMIehztyp18VasM/view?usp=drive_link) current accuracy==96.6% 
